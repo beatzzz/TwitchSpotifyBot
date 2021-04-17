@@ -1,4 +1,4 @@
-# TwitchSpotifyBot
+# Twitch-Spotify Bot
 
 Control your Spotify player through your Twitch chat
 
