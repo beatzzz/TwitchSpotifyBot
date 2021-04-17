@@ -23,6 +23,6 @@ All commands except for `!song` are only available to moderators and the streame
 Make sure to give mod perms to beatz41 (`/mod beatz41`), so the bot is always able to send messages.
 
 #### If you want to use this bot in your channel or need help, contact me here (preferably through Twitch):
-* Twitch (DM or write in my chat): [Beatz41](https://twitch.tv/beatz41)
+* Twitch (Whispers or write in my chat): [Beatz41](https://twitch.tv/beatz41)
 * Twitter: [@Beatz141](https://twitter.com/beatz141)
 * Discord: [Beatz#0001](https://discord.com/users/462263905842888714)
