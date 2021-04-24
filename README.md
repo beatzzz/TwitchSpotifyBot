@@ -6,7 +6,7 @@ Control your Spotify player through your Twitch chat
 | Command | Cooldown | Description |
 |:-----------:|:-----------:|:------------:|
 | !song / !playing | 10 seconds | Info about the currently playing song |
-| !play <songname> | 2.5 seconds | Plays the provided song now |
+| !play <songname> | 2.5 seconds | Plays the provided song now (Use !play pl:<playlistname> to play a playlist; example: !play pl:house music) |
 | !queue <songname> | 2.5 seconds | Enqueues the provided song |
 | !volume <1-100> | 2.5 seconds | Changes the volume (number is in percent) |
 | !resume | 2.5 seconds | Resumes the playback |
