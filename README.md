@@ -16,6 +16,7 @@ Control your Spotify player through your Twitch chat
 | !save | 2.5 seconds | Saves the currently playing song to your fav. songs |
 | !shuffle <on/off> | 2.5 seconds | Enables/disables shuffling |
 | !repeat <on/off> | 2.5 seconds | Enables/disables repeating |
+| !controlcommands <on/off> | 2.5 seconds | Enables/disables the control commands (all commands except for !song/!playing are control commands!) |
 
 Words in `<>`'s are necessary and need to be added to the command. Replace `<songname>` with the actual name of the song you want to use.<br>
 When trying to play/enqueue a new song, try to provide the artist's name (in case there are multiple songs with the same name), so you play/enqueue the correct song.<br>
