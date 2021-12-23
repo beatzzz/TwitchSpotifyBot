@@ -22,6 +22,8 @@ Words in `<>`'s are necessary and need to be added to the command. Replace `<son
 When trying to play/enqueue a new song, try to provide the artist's name (in case there are multiple songs with the same name), so you play/enqueue the correct song.<br>
 All commands except for `!song` are only available to moderators and the streamer.<br>
 Make sure to give mod perms to beatz41 (`/mod beatz41`), so the bot is always able to send messages.
+  
+Create a channel points reward named "Song Request" to allow your viewers to enqueue songs by spending channel points.
 
 #### If you want to use this bot in your channel or need help, contact me here (preferably through Twitch):
 * Twitch (Whispers or write in my chat): [Beatz41](https://twitch.tv/beatz41)
