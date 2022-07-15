@@ -23,7 +23,7 @@ When trying to play/enqueue a new song, try to provide the artist's name (in cas
 All commands except for `!song` are only available to moderators and the streamer.<br>
 Make sure to give mod perms to beatz41 (`/mod beatz41`), so the bot is always able to send messages.
   
-Create a channel points reward named "Song Request" to allow your viewers to enqueue songs by spending channel points.
+Create a channel points reward named "Song Request" to allow your viewers to enqueue songs by spending channel points. Song names and Spotify URLs are both supported.
 
 #### If you want to use this bot in your channel or need help, contact me here (preferably through Twitch):
 * Twitch (Whispers or write in my chat): [Beatz41](https://twitch.tv/beatz41)
