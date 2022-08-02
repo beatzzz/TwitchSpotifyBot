@@ -21,7 +21,7 @@ Control your Spotify player through your Twitch chat
 Words in `<>`'s are necessary and need to be added to the command. Replace `<songname>` with the actual name of the song you want to use.<br>
 When trying to play/enqueue a new song, try to provide the artist's name (in case there are multiple songs with the same name), so you play/enqueue the correct song.<br>
 All commands except for `!song` are only available to moderators and the streamer.<br>
-Make sure to give mod perms to beatz41 (`/mod beatz41`), so the bot is always able to send messages.
+Make sure to give VIP to beatz41 (`/vip beatz41`) to ensure that the bot is always able to send messages.
   
 Create a channel points reward named "Song Request" to allow your viewers to enqueue songs by spending channel points. Song names and Spotify URLs are both supported.
 
